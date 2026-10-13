@@ -1,0 +1,11 @@
+D:\lab06_VLE\lab06_VLE\obj\Debug\lab06_VLE.csproj.AssemblyReference.cache
+D:\lab06_VLE\lab06_VLE\obj\Debug\lab06_VLE.frmNhapLieu.resources
+D:\lab06_VLE\lab06_VLE\obj\Debug\lab06_VLE.frmXuat.resources
+D:\lab06_VLE\lab06_VLE\obj\Debug\lab06_VLE.Properties.Resources.resources
+D:\lab06_VLE\lab06_VLE\obj\Debug\lab06_VLE.csproj.GenerateResource.cache
+D:\lab06_VLE\lab06_VLE\obj\Debug\lab06_VLE.csproj.CoreCompileInputs.cache
+D:\lab06_VLE\lab06_VLE\bin\Debug\lab06_VLE.exe.config
+D:\lab06_VLE\lab06_VLE\bin\Debug\lab06_VLE.exe
+D:\lab06_VLE\lab06_VLE\bin\Debug\lab06_VLE.pdb
+D:\lab06_VLE\lab06_VLE\obj\Debug\lab06_VLE.exe
+D:\lab06_VLE\lab06_VLE\obj\Debug\lab06_VLE.pdb
